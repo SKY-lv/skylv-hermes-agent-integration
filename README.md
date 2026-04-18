@@ -1,13 +1,23 @@
-# skylv-hermes-agent-integration
+# Hermes Agent Integration
 
-hermes agent integration - OpenClaw Skill
+> hermes agent integration - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-hermes-agent-integration
 ```
 
-## Description
-An OpenClaw skill for hermes agent integration.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-hermes-agent-integration
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
