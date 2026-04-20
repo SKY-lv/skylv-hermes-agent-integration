@@ -1,7 +1,7 @@
 ---
 name: hermes-agent-integration
 slug: skylv-hermes-agent-integration
-version: 1.0.0
+version: 1.0.2
 description: "Hermes Agent Integration for OpenClaw. Connect OpenClaw with NousResearch Hermes Agent (53K stars) for self-improving AI capabilities. Triggers: hermes agent, integrate hermes, nous research, self-improving agent."
 author: SKY-lv
 license: MIT
